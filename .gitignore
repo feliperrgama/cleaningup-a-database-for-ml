@@ -208,3 +208,7 @@ __marimo__/
 
 # dirs
 .clean/
+
+# archives
+.gitignore
+requiriments.txt
