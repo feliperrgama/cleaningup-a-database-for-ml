@@ -208,7 +208,7 @@ __marimo__/
 
 # dirs
 .clean/
+treinos/
 
 # archives
-.gitignore
-requiriments.txt
+requirements.txt
